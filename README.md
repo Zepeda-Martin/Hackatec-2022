@@ -1,2 +1,2 @@
 # Hackatec-2022
-Documentos Hackateck 2022
+Documentos Hackatec 2022
